@@ -6,7 +6,7 @@
 <meta charset="utf-8" />
     <title>SHQ shoe</title>
     <meta name="viewport" content="width=device-witdth, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="css/Bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/aaa.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -287,6 +287,7 @@
 					<li>
 						<a href="#">Boot</a>
 					</li>
+				</ul>
 			</div>
 			<div class="col-md-2 col-sm-3 col-xs-3 info">
 				<h4 style="color: #dfe6e9">KIDS</h4>
@@ -300,7 +301,7 @@
 					<li>
 						<a href="#">Boot</a>
 					</li>
-
+				</ul>
 			</div>
 			<div class="col-md-2 col-sm-3 col-xs-3 info">
 				<h4 style="color: #dfe6e9">S-OFF</h4>
